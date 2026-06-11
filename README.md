@@ -2,7 +2,9 @@
 
 
 ### ⚡About Me
-I am Rex, an aspiring Backend Developer. I'm a high school graduate and currently learning backend development from scratch.
+I am Rex, an aspiring Backend Developer which focused on Python, SQL, APIs, and software engineering fundamentals.
+
+Using this GitHub to document my learning journey, build projects, and track my progress one step at a time.
 
 ---
 
