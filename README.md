@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning%2C%20curiosity%2C%20into%20code%20 alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Turning%2C%20curiosity%2C%20into%20code%20alt="Typing introduction" />
 </p>
 
 <p align="center">
