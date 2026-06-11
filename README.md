@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Echo&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=programphara0h&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building%2C%20learning%2C%20and%20improving%20every%20day" alt="Typing introduction" />
@@ -11,8 +11,7 @@
 </p>
 
 ## 📌 About Me
-
-Aspiring Backend Developer. <br>Using this GitHub to document my learning journey, build projects, and track my progress.
+- Aspiring Backend Developer. <br>Using this GitHub to document my learning journey, build projects, and track my progress.
 
 
 ## 🧠 My Focus Areas
@@ -21,10 +20,10 @@ Aspiring Backend Developer. <br>Using this GitHub to document my learning journe
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=programphara0h&theme=radical&hide_border=true&cache_seconds=86400" alt="programphara0h's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=programphara0h&theme=merko&hide_border=true&cache_seconds=86400" alt="programphara0h's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=programphara0h&theme=radical&radius=10" alt="programphara0h's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=programphara0h&theme=merko&radius=10" alt="programphara0h's Activity Graph" />
 </p>
 
 
@@ -32,7 +31,8 @@ Aspiring Backend Developer. <br>Using this GitHub to document my learning journe
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
 </p>
 
