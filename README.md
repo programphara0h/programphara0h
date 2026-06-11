@@ -14,7 +14,7 @@
 - Aspiring Backend Developer. <br>Using this GitHub to document my learning journey, build projects, and track my progress.
 
 
-## 🧠 My Focus Areas
+## ⚡ My Focus Areas
 - Backend Engineering
 
 
