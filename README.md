@@ -4,6 +4,8 @@
 ### About Me
 I am Rex, an aspiring Backend Developer. I'm a high school graduate and currently learning backend development from scratch.
 
+---
+
 Currently learning:
 - Python
 - SQL
