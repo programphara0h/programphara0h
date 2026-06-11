@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi there!👋 
+
+### ⚡ About Me:
 I am Rex, an aspiring Backend Developer which focused on Python, SQL, APIs, and software engineering fundamentals.<br>Using this GitHub to document my learning journey, build projects, and track my progress.<br>
 
 
