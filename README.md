@@ -13,10 +13,10 @@ I am Rex, an aspiring Backend Developer. I'm a high school graduate and currentl
 - REST APIs
 ---
 
-What you'll find here:
+### 📝What you'll find here:
 - Practice projects
 - Course exercises
 - Notes and experiments
 - Future portfolio projects
 
-Building, learning, and improving every day.
+*Building, learning, and improving every day.*
