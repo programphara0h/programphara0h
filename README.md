@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 
-### About Me
+### ⚡About Me
 I am Rex, an aspiring Backend Developer. I'm a high school graduate and currently learning backend development from scratch.
 
 ---
@@ -11,6 +11,7 @@ Currently learning:
 - SQL
 - Git & GitHub
 - REST APIs
+---
 
 What you'll find here:
 - Practice projects
