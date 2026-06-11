@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**programphara0h/programphara0h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About Me
+I am Rex, an aspiring Backend Developer. I'm a high school graduate and currently learning backend development from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- Python
+- SQL
+- Git & GitHub
+- REST APIs
+
+What you'll find here:
+- Practice projects
+- Course exercises
+- Notes and experiments
+- Future portfolio projects
+
+Building, learning, and improving every day.
