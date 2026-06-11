@@ -6,7 +6,7 @@ I am Rex, an aspiring Backend Developer. I'm a high school graduate and currentl
 
 ---
 
-Currently learning:
+### 🎧Currently learning:
 - Python
 - SQL
 - Git & GitHub
