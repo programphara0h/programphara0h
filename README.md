@@ -1,22 +1,60 @@
-# Hi there!👋 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Echo&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-### ⚡ About Me:
-I am Rex, an aspiring Backend Developer which focused on Python, SQL, APIs, and software engineering fundamentals.<br>Using this GitHub to document my learning journey, build projects, and track my progress.<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building%2C%20learning%2C%20and%20improving%20every%20day" alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=programphara0h">
+    <img src="https://komarev.com/ghpvc/?username=programphara0h&label=Profile%20views&color=00FFFF&style=flat-square" alt="programphara0h's profile views" />
+  </a>
+</p>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGR5aG95ZDlnN2x1ancyZ3Bsb3JsNjRpMXIzMXpwcDZlZDI4ZDFrdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l4JyQv1q76IpqZCZa/giphy.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- Aspiring Backend Developer. <br>Using this GitHub to document my learning journey, build projects, and track my progress.
 
 
-### Currently learning:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+## 🧠 My Focus Areas
+- Backend Engineering
 
 
-### What you'll find here:
-- Practice projects
-- Course exercises
-- Notes and experiments
-- Future portfolio projects
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=programphara0h&theme=radical&hide_border=true&cache_seconds=86400" alt="programphara0h's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=programphara0h&theme=radical&radius=10" alt="programphara0h's Activity Graph" />
+</p>
 
-### GitHub Stats:
-![](https://streak-stats.demolab.com/?user=programphara0h&theme=highcontrast&hide_border=false)<br/>
 
----
+## 🛠️ Languages & Tools
 
-*Building, learning, and improving every day.*
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="none" alt="Bottom Line" width="100%" />
+</div>
+
