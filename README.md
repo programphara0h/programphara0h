@@ -9,10 +9,10 @@ I am Rex, an aspiring Backend Developer which focused on Python, SQL, APIs, and 
 
 
 ### 📝What you'll find here:
--Practice projects
--Course exercises
--Notes and experiments
--Future portfolio projects
+- Practice projects
+- Course exercises
+- Notes and experiments
+- Future portfolio projects
 
 ### 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=programphara0h&theme=highcontrast&hide_border=false)<br/>
