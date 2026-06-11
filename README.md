@@ -10,8 +10,6 @@
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGR5aG95ZDlnN2x1ancyZ3Bsb3JsNjRpMXIzMXpwcDZlZDI4ZDFrdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l4JyQv1q76IpqZCZa/giphy.gif" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - Aspiring Backend Developer. <br>Using this GitHub to document my learning journey, build projects, and track my progress.
 
@@ -49,12 +47,4 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
 
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
-</div>
 
