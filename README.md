@@ -13,11 +13,6 @@
 ## 📌 About Me
 Aspiring Backend Developer. <br>Using this GitHub to document my learning journey, build projects, and track my progress.
 
-
-## ⚡ My Focus Areas
-- Backend Engineering
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
