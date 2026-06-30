@@ -1,11 +1,10 @@
-# Hi there!
 
-## 📌 About Me
+# 📌 About Me
 Aspiring Backend Developer. <br>Using this GitHub to document my learning journey, build projects, and track my progress.
 
 </p>
 
-## 📊 GitHub Stats & Trophies
+# 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=programphara0h&theme=merko&hide_border=true&cache_seconds=86400" alt="programphara0h's GitHub Streak" width="49%" />
 </p>
