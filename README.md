@@ -1,4 +1,4 @@
-# Hi there!👋
+# Hi there!
 
 ## 📌 About Me
 Aspiring Backend Developer. <br>Using this GitHub to document my learning journey, build projects, and track my progress.
