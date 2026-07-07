@@ -5,8 +5,6 @@ Aspiring Backend Developer. <br>Using this GitHub to document my learning journe
 </p>
 
 # 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=programphara0h&theme=merko&hide_border=true&cache_seconds=86400" alt="programphara0h's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=programphara0h&theme=merko&radius=10" alt="programphara0h's Activity Graph" />
