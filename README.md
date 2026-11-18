@@ -3,10 +3,10 @@
 
   <h2> About Me</h2>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=git+commit+-m+%22keep+going%2C+keep+learning%22;Learning+one+step+at+a+time..." alt="Typing animation" />
+
 
   <p>
-    Aspiring Backend Developer<br/>
+    I am an aspiring Backend Developer<br/>
     Documenting my learning journey, experiments and projects.
   </p>
 
