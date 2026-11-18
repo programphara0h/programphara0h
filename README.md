@@ -25,6 +25,8 @@ status     : learning and experimenting
 interests  : programming, technology, problem solving
 mindset    : progress > perfection
 ```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=git+commit+-m+%22keep+going%2C+keep+learning%22;Learning+one+step+at+a+time..." alt="Typing animation" />
+
 
 ### > github.stats
 
@@ -49,5 +51,3 @@ mindset    : progress > perfection
   <img src="https://komarev.com/ghpvc/?username=programphara0h&style=flat-square&color=555555&label=profile+views" alt="Profile Views" />
 
 </div>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=git+commit+-m+%22keep+going%2C+keep+learning%22;Learning+one+step+at+a+time..." alt="Typing animation" />
