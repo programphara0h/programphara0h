@@ -26,7 +26,7 @@ interests  : programming, technology, problem solving
 mindset    : progress > perfection
 ```
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4000&pause=1000&color=#FFFFFF&center=true&vCenter=true&width=650&lines=git+commit+-m+%22keep+going%2C+keep+learning%22;Learning+one+step+at+a+time..." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=git+commit+-m+%22keep+going%2C+keep+learning%22;Learning+one+step+at+a+time..." alt="Typing animation" />
 </p>
 
 ### > github.stats
