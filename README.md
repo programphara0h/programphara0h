@@ -3,7 +3,6 @@
 Aspiring Backend Developer. <br>Using this GitHub to document my learning journey, build projects, and track my progress.
 
 
-
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=git+commit+-m+%22keep+going%2C+keep+learning%22" alt="Typing introduction" />
@@ -20,7 +19,15 @@ Aspiring Backend Developer. <br>Using this GitHub to document my learning journe
 
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=programphara0h&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=5" alt="GitHub Trophies" />
+ 
+<!-- Simple GitHub profile badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/keep-going-555555?style=flat-square&logo=github&logoColor=white" alt="Keep Going" />
+  <img src="https://img.shields.io/badge/keep-learning-555555?style=flat-square&logo=git&logoColor=white" alt="Keep Learning" />
+  <img src="https://img.shields.io/github/followers/programphara0h?style=flat-square&color=555555&label=followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/programphara0h?style=flat-square&color=555555&label=stars" alt="GitHub Stars" />
+</p>
+
 
   <br/><br/>
 
