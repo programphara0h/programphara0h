@@ -40,15 +40,3 @@ mindset    : progress > perfection
   <img src="https://streak-stats.demolab.com?user=programphara0h&theme=github-dark-blue&hide_border=true&background=00000000" alt="GitHub Streak" />
 
 </div>
-
----
-
-<div align="center">
-
-  <sub>still learning. still building. still here.</sub>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=programphara0h&style=flat-square&color=555555&label=profile+views" alt="Profile Views" />
-
-</div>
